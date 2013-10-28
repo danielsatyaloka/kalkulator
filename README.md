@@ -1,4 +1,4 @@
 kalkulator
 ==========
 
-Calculator implementation in multiple languages
+Calculator implementations in multiple languages
